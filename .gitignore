@@ -23,7 +23,7 @@ wwwroot/
 
 # Docker
 docker-compose.override.yml
-Dockerfile
+#Dockerfile
 *.dockerfile
 
 # Node (if using frontend)
