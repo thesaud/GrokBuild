@@ -12,7 +12,7 @@ namespace Grok30.Controllers
             var users = new[]
             {
                 new { Id = 1, Name = "Saud" },
-                new { Id = 2, Name = "Ali" }
+                new { Id = 2, Name = "Sammi" }
             };
 
             return Ok(users);
