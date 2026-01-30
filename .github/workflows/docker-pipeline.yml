@@ -23,7 +23,7 @@ jobs:
 
       # 3. Build Docker Image
       - name: Build Docker Image
-        run: docker build -t yourdockerhubusername/grok30-api:latest .
+        run: docker build -t thesaud/grok30-api:latest .
 
       # 4. Push Docker Image
       - name: Push Docker Image
