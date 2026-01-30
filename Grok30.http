@@ -1,0 +1,6 @@
+@Grok30_HostAddress = http://localhost:5267
+
+GET {{Grok30_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
